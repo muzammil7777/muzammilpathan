@@ -1,7 +1,6 @@
 # muzammilpathan.github.io
+![gitprofile copy](https://github.com/muzammil7777/muzammilpathan.github.io/assets/61321418/83662833-bcb9-407d-95f8-3e0f4cb1f91f)
 
-![White Minimalist Elegant Neutral LinkedIn Banner](https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/gitprofile%20copy.png)         
- 
 ### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
 
 ## Sneak Peek 👀

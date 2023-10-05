@@ -1,10 +1,12 @@
 # muzammilpathan.github.io
 ![gitprofile copy](https://github.com/muzammil7777/muzammilpathan.github.io/assets/61321418/83662833-bcb9-407d-95f8-3e0f4cb1f91f)
 
-### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
+### 👋 Hi, I'm a dedicated iOS developer with 9+ years of experience. Let me show you a glimpse of my journey and what I've worked on.
 
-## Sneak Peek 👀
-Here are a few updates I've been hacking away at for Magic Budget. This update is yet to be ready for the App Store, but here's a sneak peek at some new things coming to Magic Budget in the next update!
+## MindClear Smart AI Note taking
+🧠 Intelligent AI-Powered Note-taking: MindClear harnesses the potential of cutting-edge ChatGPT API to provide users with a remarkably intelligent note-taking experience. The AI-driven capabilities enable users to effortlessly transcribe their thoughts, ideas, and meetings into clear and concise notes.
+
+MindClear is a testament to my commitment to delivering innovative, user-centric solutions. It has the potential to transform the way users take notes, making it an excellent addition to my portfolio. I invite you to explore the app and experience the future of note-taking firsthand.
 
 <p align="center">
  <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/d26e2525-5b46-4814-ad01-b2141f3a4fcf", width="200"/>
@@ -12,13 +14,14 @@ Here are a few updates I've been hacking away at for Magic Budget. This update i
 <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/2edf6ae3-4f8a-4c99-a9e7-2d6f1a3c48a6", width="200"/>
 </p>
 
-What's new?
-- A refreshed Home Screen
-- Updated UI
-- App-wide consistency in Buttons/Textfield/Sheet styles
-- To make it a bit more fun, I've added the ability for users to customize each trip with a color and icon
-- I incorporated the Queue-Times API to show Disneyland's current wait times on the Home Screen
-- More to come!
+### My Role ###
+As the developer behind MindClear, I was responsible for the entire app development process, from conceptualization to execution. I integrated the ChatGPT and Whisper APIs, ensuring smooth functionality and a user-friendly experience. My expertise in Swift was instrumental in bringing this project to fruition.
+
+**Tech Used**
+- Swift
+- Core Data
+- In-App Purchase
+- Swift Package Manager
 
 
 ## Magic Budget

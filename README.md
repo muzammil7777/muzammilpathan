@@ -9,9 +9,12 @@
 MindClear is a testament to my commitment to delivering innovative, user-centric solutions. It has the potential to transform the way users take notes, making it an excellent addition to my portfolio. I invite you to explore the app and experience the future of note-taking firsthand.
 
 <p align="center">
- <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/d26e2525-5b46-4814-ad01-b2141f3a4fcf", width="200"/>
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/142c72ae-ffa2-4759-9c47-fc6d65d91316", width="200"/>
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/2edf6ae3-4f8a-4c99-a9e7-2d6f1a3c48a6", width="200"/>
+ <img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/1290x2796bb.png", width="150"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/1290x2796bb (1).png", width="150"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/1290x2796bb (2).png", width="150"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/1290x2796bb (3).png", width="150"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/1290x2796bb (4).png", width="150"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/1290x2796bb (5).png", width="150"/>
 </p>
 
 ### My Role ###

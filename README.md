@@ -24,26 +24,39 @@ As the developer behind MindClear, I was responsible for the entire app developm
 - Swift
 - Core Data
 - In-App Purchase
+- Qonversion
+- Whisper API
+- OpenAI API ChatGPT
 - Swift Package Manager
 
 
-## Magic Budget
-This app has been a passion project of mine over the past couple years. Magic Budget is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip. 
+## [Steve AI - Chat Assistant](https://apps.apple.com/gb/app/steve-ai-chat-assistant/id6447990773)
+I am thrilled to introduce "Steve AI - Chat Assistant," a remarkable iOS app that showcases my expertise as an iOS developer. Leveraging Swift, I created an innovative and versatile application that seamlessly integrates artificial intelligence to provide users with a unique chatbot experience, along with a powerful AI image generation feature.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76922883/224447663-1946a1d5-0e7d-45bb-ba4f-48eb68924337.PNG" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/224447492-c8163fc6-7d5d-416c-913c-f9d9e0295392.PNG" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/224447581-6896ca04-6ffe-4a87-8c9e-a45809ad1798.PNG" width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/SteveAI/1290x2796bb.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/SteveAI/1290x2796bb (1).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/SteveAI/1290x2796bb (2).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/SteveAI/1290x2796bb (3).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/SteveAI/1290x2796bb (4).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/SteveAI/1290x2796bb (5).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/SteveAI/1290x2796bb (6).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/SteveAI/1290x2796bb (7).png", width="200"/>
 </p>
 
-
+### My Role ###
+As the iOS developer behind Steve AI, I spearheaded the entire development process, from concept to execution. I seamlessly integrated the ChatGPT API and AI image generation technology, ensuring the app's smooth functionality and user-friendly experience. My proficiency in Swift was instrumental in bringing this unique project to life.
 
 **Tech Used**
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📦 Swift Package Manager
- - 🚘 Roadmap
+- Swift
+- Core Data
+- In-App Purchase
+- ChatGPT
+- OpenAI API
+- Firebase
+- AI Image Generation
+- SpeechKit
+- Swift Package Manager
 
 ## Creator View
 Creator View is an app developed by Sean Allen that helps YouTubers get a bigger picture of their business. 

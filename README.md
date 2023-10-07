@@ -3,8 +3,9 @@
 
 ### 👋 Hi, I'm a dedicated iOS developer with 9+ years of experience. Let me show you a glimpse of my journey and what I've worked on.
 
-## [MindClear Smart AI Note taking](https://apps.apple.com/us/app/mindclear-smart-ai-note-taking/id6453889452)
-🧠 Intelligent AI-Powered Note-taking: MindClear harnesses the potential of cutting-edge ChatGPT API to provide users with a remarkably intelligent note-taking experience. The AI-driven capabilities enable users to effortlessly transcribe their thoughts, ideas, and meetings into clear and concise notes.
+## MindClear Smart AI Note taking
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/mindclear-smart-ai-note-taking/id6453889452)
+<br>🧠 Intelligent AI-Powered Note-taking: MindClear harnesses the potential of cutting-edge ChatGPT API to provide users with a remarkably intelligent note-taking experience. The AI-driven capabilities enable users to effortlessly transcribe their thoughts, ideas, and meetings into clear and concise notes.
 
 MindClear is a testament to my commitment to delivering innovative, user-centric solutions. It has the potential to transform the way users take notes, making it an excellent addition to my portfolio. I invite you to explore the app and experience the future of note-taking firsthand.
 
@@ -30,8 +31,9 @@ As the developer behind MindClear, I was responsible for the entire app developm
 - Swift Package Manager
 
 
-## [Steve AI - Chat Assistant](https://apps.apple.com/gb/app/steve-ai-chat-assistant/id6447990773)
-I am thrilled to introduce "Steve AI - Chat Assistant," a remarkable iOS app that showcases my expertise as an iOS developer. Leveraging Swift, I created an innovative and versatile application that seamlessly integrates artificial intelligence to provide users with a unique chatbot experience, along with a powerful AI image generation feature.
+## Steve AI - Chat Assistant
+[`📲 Available on the App Store`](https://apps.apple.com/gb/app/steve-ai-chat-assistant/id6447990773)
+<br>I am thrilled to introduce "Steve AI - Chat Assistant," a remarkable iOS app that showcases my expertise as an iOS developer. Leveraging Swift, I created an innovative and versatile application that seamlessly integrates artificial intelligence to provide users with a unique chatbot experience, along with a powerful AI image generation feature.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/SteveAI/1290x2796bb.png", width="200"/>
@@ -58,42 +60,46 @@ As the iOS developer behind Steve AI, I spearheaded the entire development proce
 - SpeechKit
 - Swift Package Manager
 
-## Creator View
-Creator View is an app developed by Sean Allen that helps YouTubers get a bigger picture of their business. 
-<br>I have had the opportunity to contribute to a few areas of this app. Check it out below!
+## Parent Focus: ScreenTime Off
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/parent-focus-screentime-off/id6460862187)
+<br>Introducing "Parent Focus: ScreenTime Off," an iOS app I developed using Swift. As the iOS developer, I played a key role in crafting this app, which empowers parents to manage their child's digital habits effectively.
+
+**Key Features:**
+
+**Smart Time Controls:**
+Parents can customize app access with precision, setting time restrictions for different apps during school, study, and bedtime.
+
+**Location-Based Management:**
+Create safe zones and adapt app availability accordingly, ensuring productive device usage, even on the go.
+
+**Apps Groups Management:**
+Categorize apps for better control, balancing education and entertainment effortlessly.
+
+Unlock all features with our auto-renewing subscription:
+
+Manage your child's screen time and promote responsible device use with Parent Focus: ScreenTime Off, showcasing my iOS development skills.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76922883/205193319-5f8c7225-9f77-4baa-89e0-2ceab8b6be13.png" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/205193358-5708bcd4-84ff-4f94-b48d-5f7ed55456de.png" width="200"/>
- </p>
-
-**My Contributions**
-- 🎨 Update Settings UI
-- ⭐️ Add Ratings prompt
-- ⚙️ Preference Screen for mac
-- ❇️ Widget
-
-**Tech Used**
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🔲 WidgetKit
-
-## [SafePeople](https://github.com/brittanyarima/SafePeople) 
-`📲 Available on the App Store`
-<br>Safe People was an idea my sister came up with and I had the honor of bringing to life. The purpose of the app is to help those struggling with addiction, anxiety, depression, etc.. reach out to their Safe People in times of need. When "triggered" the user can open the app and simply press the 'Safe Button'. This will prepare a pre-written customizable message that will be ready to send to their trusted people. The message and their trusted contacts will auto-populate in their iPhone's message app, and all they have to do is press "send".
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/76922883/205219162-5ec13057-2fa1-46a4-a609-f434046c5ca1.png" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/205219193-dad363b1-394f-4f57-9257-173f2fe1549f.png" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/205219264-1e7e1406-f70e-4372-a69e-0c815bbea49a.png" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/205219336-758788c0-77a8-4433-adb3-84da57a9ffee.png" width="200"/>
- </p>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/1290x2796bb.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/1290x2796bb (1).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/1290x2796bb (2).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/1290x2796bb (3).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/1290x2796bb (4).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/1290x2796bb (5).png", width="200"/>
+</p>
  
 **Tech Used**
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📇 Contacts
+- Swift
+- SwiftUI
+- FamilyControls
+- DeviceActivityMonitor
+- MapKit
+- CoreLocation
+- Combine
+- ManageSettings, ManageSettingsUI
+- Passcode, Icognito Passcode
+- LocalAuthentication
+- In-App Purchase
 
 ## [Steps](https://github.com/brittanyarima/Steps)
 [`📲 Available on the App Store`](https://apps.apple.com/app/id1663569893)
@@ -159,3 +165,23 @@ PencilKit is a powerhouse and central to this app, giving the user the ability t
 - ✏️ PencilKit
 - 📱 UIKit 
 - 💬 UIActivityViewController
+
+## Creator View
+Creator View is an app developed by Sean Allen that helps YouTubers get a bigger picture of their business. 
+<br>I have had the opportunity to contribute to a few areas of this app. Check it out below!
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76922883/205193319-5f8c7225-9f77-4baa-89e0-2ceab8b6be13.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/76922883/205193358-5708bcd4-84ff-4f94-b48d-5f7ed55456de.png" width="200"/>
+ </p>
+
+**My Contributions**
+- 🎨 Update Settings UI
+- ⭐️ Add Ratings prompt
+- ⚙️ Preference Screen for mac
+- ❇️ Widget
+
+**Tech Used**
+- 💿 Core Data
+- 🎨 SwiftUI
+- 🔲 WidgetKit

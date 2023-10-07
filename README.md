@@ -1,4 +1,3 @@
-# muzammilpathan.github.io
 ![gitprofile copy](https://github.com/muzammil7777/muzammilpathan.github.io/assets/61321418/83662833-bcb9-407d-95f8-3e0f4cb1f91f)
 
 ### 👋 Hi, I'm a dedicated iOS developer with 9+ years of experience. Let me show you a glimpse of my journey and what I've worked on.

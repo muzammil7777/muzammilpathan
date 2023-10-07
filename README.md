@@ -3,7 +3,7 @@
 
 ### 👋 Hi, I'm a dedicated iOS developer with 9+ years of experience. Let me show you a glimpse of my journey and what I've worked on.
 
-## MindClear Smart AI Note taking
+## [MindClear Smart AI Note taking](https://apps.apple.com/us/app/mindclear-smart-ai-note-taking/id6453889452)
 🧠 Intelligent AI-Powered Note-taking: MindClear harnesses the potential of cutting-edge ChatGPT API to provide users with a remarkably intelligent note-taking experience. The AI-driven capabilities enable users to effortlessly transcribe their thoughts, ideas, and meetings into clear and concise notes.
 
 MindClear is a testament to my commitment to delivering innovative, user-centric solutions. It has the potential to transform the way users take notes, making it an excellent addition to my portfolio. I invite you to explore the app and experience the future of note-taking firsthand.

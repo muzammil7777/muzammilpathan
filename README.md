@@ -158,3 +158,32 @@ As a Junior Developer, my role was pivotal in contributing to the development of
 - Objective-C
 - AFNetworking
 - JSON
+
+## MotoGP Bike Game
+I am thrilled to present the "MotoGP Bike Game," a captivating iOS app that I developed for iPhone and iPad using Objective-C. With this project, I not only demonstrated my iOS development expertise but also integrated a PHP JSON API for seamless backend connectivity and leveraged PayPal as a payment gateway for ticket purchases.
+
+The "MotoGP Bike Game" is an exhilarating hint-sign contest that puts your sleuthing skills to the test. As players, your mission is to decipher the hints hidden within the game. Once you successfully uncover these clues, you stand a chance to win fantastic prizes, including the grand prize—a brand-new bike!
+
+**Key Highlights:**
+
+Using Objective-C, I crafted a dynamic and immersive gaming experience that caters to iPhone and iPad users, ensuring seamless gameplay across iOS devices.
+
+**PHP JSON API Integration:** The app's integration with a PHP JSON API backend ensures real-time data updates and maintains the app's reliability and performance.
+
+**PayPal Payment Gateway:** To add an element of excitement, I incorporated a PayPal payment gateway, allowing users to purchase tickets and enter the contest seamlessly.
+
+The "MotoGP Bike Game" is not just a game; it's a thrilling adventure and a testament to my passion for delivering engaging and interactive iOS applications. I invite you to dive into this captivating world of hints and prizes, and explore the exciting possibilities within the game. It's a worthy addition to my portfolio, showcasing my commitment to creating memorable user experiences.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MotoGP/1.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MotoGP/2.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MotoGP/3.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MotoGP/4.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MotoGP/5.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MotoGP/6.png", width="200"/>
+</p>
+ 
+**Tech Used**
+- Objective-C
+- AFNetworking
+- JSON

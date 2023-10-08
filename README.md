@@ -126,3 +126,35 @@ Alpha Urbane represents a unique fusion of technology and leadership development
 - Alamofire
 - JSON
   
+## Kolkata Knight Riders IPL 2015
+I am delighted to showcase the "Kolkata Knight Riders IPL 2015" app, an iOS project I contributed to as a Junior Developer, working collaboratively with my team. Our goal was to create an exceptional mobile experience for fans of the iconic Kolkata Knight Riders (KKR) cricket team, utilizing Objective-C for iPhone and iPad development, with a PHP JSON API serving as the backend.
+
+"Kolkata Knight Riders IPL 2015" is the official mobile application of the Kolkata Knight Riders (KKR), a beloved and prominent team in the Indian Premier League (IPL) and Champions League T20 (CLT20). Our app aimed to bring fans closer to the action, offering an immersive experience during the 2015 IPL season.
+
+**Key Features:**
+
+**Objective-C Mastery:** We harnessed the power of Objective-C to build a robust and feature-rich app for both iPhone and iPad, ensuring a seamless user experience across iOS devices.
+
+**Real-time Match Alerts:** With push notifications, we kept fans updated with live match alerts, ensuring they never missed a moment of the KKR's IPL journey.
+
+**PHP JSON API Integration:** The app seamlessly connected to a PHP JSON API backend, enabling real-time data updates and ensuring the app's reliability and performance.
+
+As a Junior Developer, my role was pivotal in contributing to the development of this official KKR app. It's a testament to my dedication to collaborative teamwork and my commitment to creating engaging and user-centric iOS applications. Explore the "Kolkata Knight Riders IPL 2015" app and relive the excitement of KKR's IPL journey.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS1.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS2.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS3.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS4.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS5.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS6.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS7.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS8.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS9.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS10.jpg", width="200"/>
+</p>
+ 
+**Tech Used**
+- Objective-C
+- AFNetworking
+- JSON

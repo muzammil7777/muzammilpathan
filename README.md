@@ -114,11 +114,11 @@ The Alpha Urbane Project is a visionary endeavor dedicated to nurturing the lead
 Alpha Urbane represents a unique fusion of technology and leadership development, and it's an honor to include this project in my portfolio. It underscores my commitment to delivering innovative solutions that help pave the way for future leaders. Explore Alpha Urbane and discover the path to leadership excellence.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot1.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot2.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot5.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot3.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot4.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot1.jpg", width="250"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot2.jpg", width="250"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot5.jpg", width="250"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot3.jpg", width="250"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot4.jpg", width="250"/>
 </p>
  
 **Tech Used**

@@ -99,3 +99,30 @@ Manage your child's screen time and promote responsible device use with Parent F
 - Passcode, Icognito Passcode
 - LocalAuthentication
 - In-App Purchase
+
+## Alpha Urbane
+I am pleased to present the "Alpha Urbane" app, a remarkable iOS application I developed using Swift for a private company. This project embodies the convergence of my iOS development skills and my commitment to fostering leadership excellence.
+
+The Alpha Urbane Project is a visionary endeavor dedicated to nurturing the leaders of tomorrow. Our mission is to empower young minds with the essential qualities of charisma, creativity, and courage that are integral to shaping the future.
+
+**Key Features:**
+
+**iOS Development Expertise:** As the iOS developer behind Alpha Urbane, I employed Swift to create a seamless and user-friendly application.
+
+**Backend Integration:** The app seamlessly connects with a PHP JSON API backend, ensuring robust functionality and smooth data transmission.
+
+Alpha Urbane represents a unique fusion of technology and leadership development, and it's an honor to include this project in my portfolio. It underscores my commitment to delivering innovative solutions that help pave the way for future leaders. Explore Alpha Urbane and discover the path to leadership excellence.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot1.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot2.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot5.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot3.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot4.jpg", width="200"/>
+</p>
+ 
+**Tech Used**
+- Swift
+- Alamofire
+- JSON
+  

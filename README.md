@@ -187,3 +187,45 @@ The "MotoGP Bike Game" is not just a game; it's a thrilling adventure and a test
 - Objective-C
 - AFNetworking
 - JSON
+
+## Casper Cremation (Version 1.0)
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/casper-cremation/id1222789079)
+<br>I'm pleased to present the "Casper Cremation" app, an iOS application I developed for iPhone and iPad using Objective-C. This app offers essential Casper Cremation® forms, FAQs, heartfelt testimonials, and easy contact information access for Casper Funeral and Cremation Services. It's a compassionate companion, ready to assist families during challenging times.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/CFS/1.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/CFS/2.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/CFS/3.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/CFS/4.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/CFS/5.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/CFS/6.png", width="200"/>
+</p>
+ 
+**Tech Used**
+- Objective-C
+- JSON API
+
+## MyGoals - Achieve Your Dreams, Your Way
+I am thrilled to introduce the "MyGoals" app, a remarkable iOS application that I developed using Swift for iPhone. This project showcases my proficiency as an iOS developer, and it's a testament to my commitment to helping individuals set and achieve their life goals.
+
+**Key Features:**
+
+**Seamless Goal Management:** "MyGoals" provides a seamless platform for users to set, track, and manage their life goals. With the power of Swift, I ensured a user-friendly experience that empowers individuals to take charge of their aspirations.
+
+**Core Data Integration:** The app harnesses the capabilities of Core Data to store and manage its data, guaranteeing efficient and reliable data storage, retrieval, and updates.
+
+**Detailed Goal Tracking:** Users can set goals with location and price details, making it easy to visualize their objectives. Whether it's a dream vacation, a career milestone, or a personal accomplishment, "MyGoals" allows users to define and pursue their dreams.
+
+**Flexibility to Accomplish or Give Up:** Life can be unpredictable, and goals may evolve. "MyGoals" provides the flexibility to either accomplish or give up on goals as circumstances change, ensuring that the app adapts to users' changing needs.
+
+The "MyGoals" app is more than just a tool; it's a companion on the journey towards personal growth and achievement. It empowers individuals to dream big, plan effectively, and take action. I am proud to include this project in my portfolio as it reflects my dedication to creating iOS applications that have a positive impact on people's lives. Explore "MyGoals" and embark on your path to achieving your dreams, your way.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MyGoals/1.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MyGoals/2.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MyGoals/3.jpg", width="200"/>
+</p>
+ 
+**Tech Used**
+- Swift
+- Core Data

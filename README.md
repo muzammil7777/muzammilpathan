@@ -267,15 +267,15 @@ The "NFT Creator" app is more than just a tool; it's a gateway to the world of d
 ## Matjre Pixel (متجربيكسل)
 I am thrilled to present the "متجربيكسل" (MatjrePixel) app, a remarkable iOS application I developed for both iPhone and iPad, using Swift, for my valued client. This project epitomizes my expertise as an iOS developer and represents my dedication to creating feature-rich applications for seamless E-commerce shopping and image editing.
 
-App Highlights:
+**App Highlights:**
 
-E-commerce Shopping: "متجربيكسل" is your go-to destination for a captivating online shopping experience. With a user-friendly interface, it offers a wide range of products that can be personalized and ordered with ease.
+**E-commerce Shopping:** "متجربيكسل" is your go-to destination for a captivating online shopping experience. With a user-friendly interface, it offers a wide range of products that can be personalized and ordered with ease.
 
-Image Editing Features: The app empowers users to customize and edit images, enabling them to create personalized and printable products. Whether it's adding a personal touch to a gift or designing custom mobile cases, pillow, mug, t-shirt and more, the possibilities are endless.
+**Image Editing Features:** The app empowers users to customize and edit images, enabling them to create personalized and printable products. Whether it's adding a personal touch to a gift or designing custom mobile cases, pillow, mug, t-shirt and more, the possibilities are endless.
 
-JSON API Integration: The app seamlessly connects with a JSON API backend, ensuring real-time updates and reliable data transmission. This integration enhances the overall functionality and performance of the app.
+**JSON API Integration:** The app seamlessly connects with a JSON API backend, ensuring real-time updates and reliable data transmission. This integration enhances the overall functionality and performance of the app.
 
-Secure Payments: "متجربيكسل" offers a secure and convenient payment experience through the integration of the Paytabs payment gateway. Users can shop with confidence, knowing their transactions are protected.
+**Secure Payments:** "متجربيكسل" offers a secure and convenient payment experience through the integration of the Paytabs payment gateway. Users can shop with confidence, knowing their transactions are protected.
 
 The "متجربيكسل" app is more than just an E-commerce platform; it's a creative space where users can personalize and order their favorite products. It represents my commitment to delivering innovative iOS applications that enhance the shopping and customization experience.
 
@@ -326,3 +326,40 @@ I am proud to include "liliAli" in my portfolio as it showcases my dedication to
 **Tech Used**
 - Objective-C
 - PHP
+
+## Tenant Score
+I am proud to present the "Tenant Score" app, a collaborative effort with my team of developers, developed for iPhone using Swift. This project exemplifies my expertise as an iOS developer and showcases our collective dedication to streamlining property management and real estate transactions.
+
+**Key Highlights:**
+
+**Multi-Developer Collaboration:** "Tenant Score" was a project that involved the collective efforts of three developers, each focusing on different modules. We collaborated seamlessly to ensure a cohesive and feature-rich application.
+
+**GitLab Integration:** To efficiently manage source code and maintain version control, we utilized GitLab. This allowed us to work in parallel on various aspects of the app while ensuring code integrity.
+
+**Comprehensive Real Estate Solutions:** "Tenant Score" serves as a comprehensive platform for property-related transactions. Users can seamlessly explore, rent, sell, or buy properties, simplifying the real estate experience.
+
+**Advanced Document Scanning:** The app incorporates the power of openCV for document and receipt scanning. This feature enables users to digitize their paperwork effortlessly, reducing paperwork clutter and increasing efficiency.
+
+"Tenant Score" is more than just an app; it's a catalyst for modernizing property management and real estate transactions. It reflects our dedication to delivering innovative iOS applications that simplify complex processes and enhance user experiences.
+
+I am honored to include "Tenant Score" in my portfolio, as it highlights our collective commitment to creating versatile and user-centric apps that cater to the diverse needs of the real estate industry. Explore "Tenant Score" and experience a new era of property management and real estate transactions.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/TenantScore/0.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/TenantScore/1.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/TenantScore/2.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/TenantScore/3.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/TenantScore/4.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/TenantScore/5.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/TenantScore/6.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/TenantScore/7.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/TenantScore/9.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/TenantScore/10.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/TenantScore/11.jpg", width="200"/>
+</p>
+ 
+**Tech Used**
+- Swift
+- PHP JSON API
+- Apple Pay
+- OpenCV

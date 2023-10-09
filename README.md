@@ -229,3 +229,37 @@ The "MyGoals" app is more than just a tool; it's a companion on the journey towa
 **Tech Used**
 - Swift
 - Core Data
+
+## Nft Creator - Art Maker
+I am excited to introduce the "NFT Creator" app, a dynamic iOS application I developed for both iPhone and iPad using Swift. This project highlights my proficiency as an iOS developer and showcases the integration of the OpenSea API and Firebase for a seamless NFT art creation experience.
+
+**Key Features:**
+
+**Empowering NFT Creation:** The "NFT Creator" app is designed to empower users to embark on their journey of digital artistry. It simplifies the process of creating unique NFT collections, offering trending insights, popular assets, and intuitive tools to craft digital masterpieces.
+
+**Artistry Made Easy:** With a user-friendly interface, users can design their NFTs in a matter of minutes. The app provides a platform to upload personal images, apply filters, and customize backgrounds, allowing for unlimited artistic expression.
+
+**Access to Trending Assets:** Stay updated with the rapidly evolving NFT marketplace. The app's asset section is constantly refreshed with the latest trending items, serving as a source of inspiration for your creative endeavors.
+
+**Diverse NFT Packs:** Explore a wide variety of NFT Packs collections within the app, ensuring a fresh inventory of assets to fuel your NFT creation journey.
+
+The "NFT Creator" app is more than just a tool; it's a gateway to the world of digital art and NFTs. It empowers users to explore their artistic talents, stay informed about NFT trends, and create unique collections effortlessly. I am proud to include this project in my portfolio as it reflects my commitment to delivering innovative iOS applications that cater to the evolving digital landscape. Explore "NFT Creator" and unleash your creativity in the NFT world.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/1.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/2.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/3.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/4.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/5.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/6.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/7.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/8.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/9.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/10.jpg", width="200"/>
+</p>
+ 
+**Tech Used**
+- Swift
+- OpenSea API
+- Firebase
+- In-App Purchase

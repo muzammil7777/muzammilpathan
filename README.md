@@ -301,3 +301,28 @@ I am proud to include "متجربيكسل" in my portfolio as it showcases my de
 - PHP JSON API
 - Paytabs
 - Image Processing
+
+## liliAli
+I am delighted to introduce the "liliAli" app, a remarkable iOS application I developed for both iPhone and iPad, utilizing Objective-C, for my esteemed client. This project highlights my prowess as an iOS developer and reflects my dedication to transforming the ordinary into the extraordinary.
+
+**Key Features:**
+
+**Innovative Interactivity:** "liliAli" is a groundbreaking product that breathes life into printed paper. Whether it's greeting cards, postcards, Christmas cards, gift tags, or wrapping paper, this app empowers users to make their printed materials come alive with interactivity.
+
+**Seamless Media Upload:** The app facilitates the effortless uploading of images and videos to a server backend, serving as an extra storage bucket. This feature ensures that users can enrich their printed creations with multimedia content effortlessly.
+
+**Printed Paper Revolution:** "liliAli" represents a revolution in the world of printed paper, enabling users to add digital elements to their physical creations. It reimagines traditional printed materials, making them dynamic and engaging.
+
+"liliAli" is more than just an app; it's a bridge between the physical and digital worlds, offering a new dimension to printed paper. It is a testament to my commitment to delivering innovative iOS applications that transcend the ordinary.
+
+I am proud to include "liliAli" in my portfolio as it showcases my dedication to creating transformative and user-centric apps. Explore "liliAli" and embark on a journey to make your printed paper creations truly interactive and magical.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/liliAli/1.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/liliAli/2.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/liliAli/3.jpg", width="200"/>
+</p>
+ 
+**Tech Used**
+- Objective-C
+- PHP

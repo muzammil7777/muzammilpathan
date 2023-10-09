@@ -100,6 +100,78 @@ Manage your child's screen time and promote responsible device use with Parent F
 - LocalAuthentication
 - In-App Purchase
 
+## Nft Creator - Art Maker
+I am excited to introduce the "NFT Creator" app, a dynamic iOS application I developed for both iPhone and iPad using Swift. This project highlights my proficiency as an iOS developer and showcases the integration of the OpenSea API and Firebase for a seamless NFT art creation experience.
+
+**Key Features:**
+
+**Empowering NFT Creation:** The "NFT Creator" app is designed to empower users to embark on their journey of digital artistry. It simplifies the process of creating unique NFT collections, offering trending insights, popular assets, and intuitive tools to craft digital masterpieces.
+
+**Artistry Made Easy:** With a user-friendly interface, users can design their NFTs in a matter of minutes. The app provides a platform to upload personal images, apply filters, and customize backgrounds, allowing for unlimited artistic expression.
+
+**Access to Trending Assets:** Stay updated with the rapidly evolving NFT marketplace. The app's asset section is constantly refreshed with the latest trending items, serving as a source of inspiration for your creative endeavors.
+
+**Diverse NFT Packs:** Explore a wide variety of NFT Packs collections within the app, ensuring a fresh inventory of assets to fuel your NFT creation journey.
+
+The "NFT Creator" app is more than just a tool; it's a gateway to the world of digital art and NFTs. It empowers users to explore their artistic talents, stay informed about NFT trends, and create unique collections effortlessly. I am proud to include this project in my portfolio as it reflects my commitment to delivering innovative iOS applications that cater to the evolving digital landscape. Explore "NFT Creator" and unleash your creativity in the NFT world.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/1.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/2.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/3.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/4.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/5.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/6.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/7.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/8.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/9.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/10.jpg", width="200"/>
+</p>
+ 
+**Tech Used**
+- Swift
+- OpenSea API
+- Firebase
+- In-App Purchase
+
+## Matjre Pixel (متجربيكسل)
+I am thrilled to present the "متجربيكسل" (MatjrePixel) app, a remarkable iOS application I developed for both iPhone and iPad, using Swift, for my valued client. This project epitomizes my expertise as an iOS developer and represents my dedication to creating feature-rich applications for seamless E-commerce shopping and image editing.
+
+**App Highlights:**
+
+**E-commerce Shopping:** "متجربيكسل" is your go-to destination for a captivating online shopping experience. With a user-friendly interface, it offers a wide range of products that can be personalized and ordered with ease.
+
+**Image Editing Features:** The app empowers users to customize and edit images, enabling them to create personalized and printable products. Whether it's adding a personal touch to a gift or designing custom mobile cases, pillow, mug, t-shirt and more, the possibilities are endless.
+
+**JSON API Integration:** The app seamlessly connects with a JSON API backend, ensuring real-time updates and reliable data transmission. This integration enhances the overall functionality and performance of the app.
+
+**Secure Payments:** "متجربيكسل" offers a secure and convenient payment experience through the integration of the Paytabs payment gateway. Users can shop with confidence, knowing their transactions are protected.
+
+The "متجربيكسل" app is more than just an E-commerce platform; it's a creative space where users can personalize and order their favorite products. It represents my commitment to delivering innovative iOS applications that enhance the shopping and customization experience.
+
+I am proud to include "متجربيكسل" in my portfolio as it showcases my dedication to creating versatile and user-centric apps that cater to the diverse needs of modern consumers. Explore "متجربيكسل" and embark on a personalized shopping and image editing journe
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/1.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/2.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/3.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/4.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/5.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/6.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/7.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/8.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/9.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/10.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/11.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/12.jpg", width="200"/>
+</p>
+ 
+**Tech Used**
+- Swift
+- PHP JSON API
+- Paytabs
+- Image Processing
+
 ## Alpha Urbane
 I am pleased to present the "Alpha Urbane" app, a remarkable iOS application I developed using Swift for a private company. This project embodies the convergence of my iOS development skills and my commitment to fostering leadership excellence.
 
@@ -114,11 +186,11 @@ The Alpha Urbane Project is a visionary endeavor dedicated to nurturing the lead
 Alpha Urbane represents a unique fusion of technology and leadership development, and it's an honor to include this project in my portfolio. It underscores my commitment to delivering innovative solutions that help pave the way for future leaders. Explore Alpha Urbane and discover the path to leadership excellence.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot1.jpg", width="250"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot2.jpg", width="250"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot5.jpg", width="250"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot3.jpg", width="250"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/Screenshot4.jpg", width="250"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/1.jpg", width="250"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/2.jpg", width="250"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/3.jpg", width="250"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/4.jpg", width="250"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AlphaUrbane/5.jpg", width="250"/>
 </p>
  
 **Tech Used**
@@ -230,77 +302,7 @@ The "MyGoals" app is more than just a tool; it's a companion on the journey towa
 - Swift
 - Core Data
 
-## Nft Creator - Art Maker
-I am excited to introduce the "NFT Creator" app, a dynamic iOS application I developed for both iPhone and iPad using Swift. This project highlights my proficiency as an iOS developer and showcases the integration of the OpenSea API and Firebase for a seamless NFT art creation experience.
 
-**Key Features:**
-
-**Empowering NFT Creation:** The "NFT Creator" app is designed to empower users to embark on their journey of digital artistry. It simplifies the process of creating unique NFT collections, offering trending insights, popular assets, and intuitive tools to craft digital masterpieces.
-
-**Artistry Made Easy:** With a user-friendly interface, users can design their NFTs in a matter of minutes. The app provides a platform to upload personal images, apply filters, and customize backgrounds, allowing for unlimited artistic expression.
-
-**Access to Trending Assets:** Stay updated with the rapidly evolving NFT marketplace. The app's asset section is constantly refreshed with the latest trending items, serving as a source of inspiration for your creative endeavors.
-
-**Diverse NFT Packs:** Explore a wide variety of NFT Packs collections within the app, ensuring a fresh inventory of assets to fuel your NFT creation journey.
-
-The "NFT Creator" app is more than just a tool; it's a gateway to the world of digital art and NFTs. It empowers users to explore their artistic talents, stay informed about NFT trends, and create unique collections effortlessly. I am proud to include this project in my portfolio as it reflects my commitment to delivering innovative iOS applications that cater to the evolving digital landscape. Explore "NFT Creator" and unleash your creativity in the NFT world.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/1.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/2.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/3.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/4.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/5.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/6.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/7.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/8.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/9.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/NFTCreator/10.jpg", width="200"/>
-</p>
- 
-**Tech Used**
-- Swift
-- OpenSea API
-- Firebase
-- In-App Purchase
-
-## Matjre Pixel (متجربيكسل)
-I am thrilled to present the "متجربيكسل" (MatjrePixel) app, a remarkable iOS application I developed for both iPhone and iPad, using Swift, for my valued client. This project epitomizes my expertise as an iOS developer and represents my dedication to creating feature-rich applications for seamless E-commerce shopping and image editing.
-
-**App Highlights:**
-
-**E-commerce Shopping:** "متجربيكسل" is your go-to destination for a captivating online shopping experience. With a user-friendly interface, it offers a wide range of products that can be personalized and ordered with ease.
-
-**Image Editing Features:** The app empowers users to customize and edit images, enabling them to create personalized and printable products. Whether it's adding a personal touch to a gift or designing custom mobile cases, pillow, mug, t-shirt and more, the possibilities are endless.
-
-**JSON API Integration:** The app seamlessly connects with a JSON API backend, ensuring real-time updates and reliable data transmission. This integration enhances the overall functionality and performance of the app.
-
-**Secure Payments:** "متجربيكسل" offers a secure and convenient payment experience through the integration of the Paytabs payment gateway. Users can shop with confidence, knowing their transactions are protected.
-
-The "متجربيكسل" app is more than just an E-commerce platform; it's a creative space where users can personalize and order their favorite products. It represents my commitment to delivering innovative iOS applications that enhance the shopping and customization experience.
-
-I am proud to include "متجربيكسل" in my portfolio as it showcases my dedication to creating versatile and user-centric apps that cater to the diverse needs of modern consumers. Explore "متجربيكسل" and embark on a personalized shopping and image editing journe
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/1.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/2.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/3.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/4.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/5.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/6.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/7.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/8.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/9.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/10.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/11.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Pixel/12.jpg", width="200"/>
-</p>
- 
-**Tech Used**
-- Swift
-- PHP JSON API
-- Paytabs
-- Image Processing
 
 ## liliAli
 I am delighted to introduce the "liliAli" app, a remarkable iOS application I developed for both iPhone and iPad, utilizing Objective-C, for my esteemed client. This project highlights my prowess as an iOS developer and reflects my dedication to transforming the ordinary into the extraordinary.

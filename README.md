@@ -142,16 +142,16 @@ I am delighted to showcase the "Kolkata Knight Riders IPL 2015" app, an iOS proj
 As a Junior Developer, my role was pivotal in contributing to the development of this official KKR app. It's a testament to my dedication to collaborative teamwork and my commitment to creating engaging and user-centric iOS applications. Explore the "Kolkata Knight Riders IPL 2015" app and relive the excitement of KKR's IPL journey.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS1.png", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS2.png", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS3.png", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS4.png", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS5.png", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS6.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS7.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS8.jpg", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS9.png", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/SS10.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/1.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/2.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/3.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/4.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/5.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/6.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/7.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/8.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/9.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/KKR/10.jpg", width="200"/>
 </p>
  
 **Tech Used**

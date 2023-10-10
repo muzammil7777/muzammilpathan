@@ -156,6 +156,9 @@ Manage your child's screen time and promote responsible device use with Parent F
 This app is more than just a media tool; it's a gateway to reliving and sharing precious memories in an engaging and creative way. "My Wow Memories" reflects my dedication to creating iOS applications that enhance and simplify the way we interact with our digital memories.
 
 I am excited to include "My Wow Memories" in my portfolio as it showcases my commitment to delivering user-centric apps that celebrate the beauty of life's moments. Explore "My Wow Memories" and embark on a journey of turning memories into movies with ease and flair.
+
+[`Click here to see Photos & Video`](https://drive.google.com/drive/folders/19IAfvuz-862Gn_JUb-lIQwS2YyxhRtj6?usp=sharing)<br>
+
  
 **Tech Used**
 - Swift

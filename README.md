@@ -141,6 +141,37 @@ Manage your child's screen time and promote responsible device use with Parent F
 - CryptoSwift
 - MapBox iOS SDK
 
+## MWM (Video Editor, Wifi Sharing, Event Managment, Reel Maker)
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/my-wow-event-video-maker/id1492783870)
+<br>I proudly present "My Wow Memories," an iOS app I developed using Swift for iPhone. This app encapsulates the essence of simplicity and power, allowing users to craft highlight movies from their cherished photos and videos effortlessly.
+
+**Key Features:**
+
+**Event Creation:** Users can create and host events, inviting friends and loved ones to capture moments together.
+
+**Media Sharing:** With the convenience of phone-to-phone Wi-Fi sharing, similar to Xender and Shareit, users can effortlessly share their photos and videos locally, fostering a sense of connectivity.
+
+**Instant Highlight Movies:** "My Wow Memories" empowers users to transform their captured memories into highlight movies of specific durations (15, 30, or 60 seconds), turning moments into cinematic gems.
+
+This app is more than just a media tool; it's a gateway to reliving and sharing precious memories in an engaging and creative way. "My Wow Memories" reflects my dedication to creating iOS applications that enhance and simplify the way we interact with our digital memories.
+
+I am excited to include "My Wow Memories" in my portfolio as it showcases my commitment to delivering user-centric apps that celebrate the beauty of life's moments. Explore "My Wow Memories" and embark on a journey of turning memories into movies with ease and flair.
+ 
+**Tech Used**
+- Swift
+- Cocoapods
+- In-App Pucrhase
+- Core Data
+- Alamofire
+- Bonjour
+- Wifi Sharing
+- AVFoundation
+- Firebase
+- Facebook Login
+- Google IMA Ads
+- UIKit
+- AVkit
+- Photos
 
 ## soundBYTE - Play, Create, & Share Short Audio Clips
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/soundbyte/id1009628354)

@@ -106,6 +106,51 @@ Manage your child's screen time and promote responsible device use with Parent F
 - LocalAuthentication
 - In-App Purchase
 
+## Dice Mobi
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/atlas-tech-app/id1187578170?ls=1)
+<br>Introducing "Dice Mobi," an iOS app I developed for my client using Swift for iPhone. This app offers a streamlined attendance management system for the Faculty of the Indian School of Design and Innovation (ISDI) and Indian School of Management and Entrepreneurship (ISME). With seamless PHP web services and a custom UI, "Dice Mobi" effortlessly syncs student attendance with the existing ecosystem, simplifying the administrative process for the DICE umbrella, comprising ISDI, ISME, and ISDI WPP schools.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Dice/1.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Dice/2.jpg", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Dice/3.jpg", width="200"/>
+</p>
+ 
+**Tech Used**
+- Objective-C for the first version.
+- Swift
+- Push Notification
+- Sqlite Database
+- Login with FaceID, TouchID
+- RazorPay
+
+## BRMB Maps
+[`📲 Available on the App Store`](https://apps.apple.com/ca/app/brmb-maps-by-backroad-maps/id1528015531)
+<br>"BRMB Maps" is an iOS app I developed using Swift for iPhone, showcasing my expertise in mobile application development. This app harnesses the power of the Mapbox SDK and PHP JSON web services, providing users with detailed topographic maps for exploring Canada's breathtaking backcountry.
+ 
+**Tech Used**
+- Objective-C
+- Swift
+- OneSignalNotificationServiceExtension
+- Swift Packages
+- Cocoapods
+- In-App Pucrhase
+- Core Data
+- Alamofire
+- CryptoSwift
+- MapBox iOS SDK
+
+
+## soundBYTE - Play, Create, & Share Short Audio Clips
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/soundbyte/id1009628354)
+<br>As a Junior iOS developer, I collaborated with my team to bring "soundBYTE" to life, using Objective-C for iPhone and iPad. This app is a testament to our collective efforts and dedication to creating a unique platform for playing, creating, and sharing short audio clips.
+ 
+**Tech Used**
+- Objective-C
+- SQLite database
+- AFNetworking
+- AVAudioKit
+
 ## Nft Creator - Art Maker
 I am excited to introduce the "NFT Creator" app, a dynamic iOS application I developed for both iPhone and iPad using Swift. This project highlights my proficiency as an iOS developer and showcases the integration of the OpenSea API and Firebase for a seamless NFT art creation experience.
 

@@ -474,3 +474,13 @@ I am honored to include "Tenant Score" in my portfolio, as it highlights our col
 - PHP JSON API
 - Apple Pay
 - OpenCV
+
+### Thanks for stopping by!
+
+# Contact Info:
+
+- Email: muzammil.pathan7777@gmail.com
+- LinkedIn: https://www.linkedin.com/in/muzammil-pathan--a0aa54105
+- Website: https://github.com/muzammil7777
+
+![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)

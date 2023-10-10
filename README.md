@@ -1,5 +1,11 @@
 ![gitprofile copy](https://github.com/muzammil7777/muzammilpathan.github.io/assets/61321418/83662833-bcb9-407d-95f8-3e0f4cb1f91f)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/muzammil-pathan-%EF%A3%BF-a0aa54105/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=yonmontoto&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://github.com/muzammil7777/muzammilpathan/blob/58f6235d43a210c4fd0b8faf64254188b23f7a2f/files/Muzammil_Resume_Exp8yrs_2023_1.pdf"><img src="https://img.shields.io/static/v1?label=Resume&message=Download%20CV&color=green&style=for-the-badge"></a>&nbsp;&nbsp;
+<!--   <a href="https://apps.apple.com/vg/developer/yon-montoto/id1461254488"><img src="https://img.shields.io/static/v1?label=AppStore&message=Yon%20Montoto&color=red&style=for-the-badge&logo=apple&logoColor=white"></a> -->
+</p><br>
+
 ### 👋 Hi, I'm a dedicated iOS developer with 9+ years of experience. Let me show you a glimpse of my journey and what I've worked on.
 
 ## MindClear Smart AI Note taking

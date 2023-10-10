@@ -115,7 +115,8 @@ Manage your child's screen time and promote responsible device use with Parent F
 <img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Dice/2.jpg", width="200"/>
 <img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/Dice/3.jpg", width="200"/>
 </p>
- 
+
+[`View More Screens`](https://apps.apple.com/us/app/atlas-tech-app/id1187578170?ls=1)<br>
 **Tech Used**
 - Objective-C for the first version.
 - Swift

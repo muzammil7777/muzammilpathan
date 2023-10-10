@@ -217,6 +217,29 @@ The "NFT Creator" app is more than just a tool; it's a gateway to the world of d
 - Firebase
 - In-App Purchase
 
+## Chilli69 
+I contributed as an iOS developer to the second version of the "Chilli69" app, utilizing Objective-C for iPhone. This app stands as a beacon of open-mindedness in the dating market, dedicated to helping users find that special someone with privacy and discretion.
+
+**Key Features:**
+
+**Open-Minded Dating:** "Chilli69" fosters connections between open-minded individuals, providing a platform for meaningful interactions.
+
+**Privacy and Discretion:** The app prioritizes user privacy and discretion, ensuring a secure and respectful dating environment.
+
+**Feature-Rich:** From block/unblock options to live chat, liking/unliking, matching profiles, and profile visits, "Chilli69" offers a comprehensive suite of features to enhance the dating experience.
+
+This app is more than just a dating platform; it's a place where open minds come together to connect and explore meaningful relationships. It represents my dedication to contributing to user-centric iOS applications that facilitate connections and foster understanding.
+
+I am pleased to include my work on the second version of "Chilli69" in my portfolio, as it showcases my commitment to developing apps that make a positive impact on people's lives. Explore "Chilli69" and open your heart to new possibilities in the world of dating.
+ 
+**Tech Used**
+- Objective-C
+- Cocoapods
+- In-App Pucrhase
+- Core Data
+- AFNetworking
+- XMPP Framework
+
 ## Matjre Pixel (متجربيكسل)
 I am thrilled to present the "متجربيكسل" (MatjrePixel) app, a remarkable iOS application I developed for both iPhone and iPad, using Swift, for my valued client. This project epitomizes my expertise as an iOS developer and represents my dedication to creating feature-rich applications for seamless E-commerce shopping and image editing.
 

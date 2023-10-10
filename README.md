@@ -106,7 +106,7 @@ Manage your child's screen time and promote responsible device use with Parent F
 - LocalAuthentication
 - In-App Purchase
 
-## Dice Mobi
+## Dice Mobi (Admin Module, Faculty Module, Student Module)
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/atlas-tech-app/id1187578170?ls=1)
 <br>Introducing "Dice Mobi," an iOS app I developed for my client using Swift for iPhone. This app offers a streamlined attendance management system for the Faculty of the Indian School of Design and Innovation (ISDI) and Indian School of Management and Entrepreneurship (ISME). With seamless PHP web services and a custom UI, "Dice Mobi" effortlessly syncs student attendance with the existing ecosystem, simplifying the administrative process for the DICE umbrella, comprising ISDI, ISME, and ISDI WPP schools.
 

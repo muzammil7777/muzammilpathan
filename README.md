@@ -34,7 +34,8 @@ As the developer behind MindClear, I was responsible for the entire app developm
 - Whisper API
 - OpenAI API ChatGPT
 - Swift Package Manager
-
+- Firebase
+  
 
 ## Steve AI - Chat Assistant
 [`📲 Available on the App Store`](https://apps.apple.com/gb/app/steve-ai-chat-assistant/id6447990773)
@@ -65,9 +66,9 @@ As the iOS developer behind Steve AI, I spearheaded the entire development proce
 - SpeechKit
 - Swift Package Manager
 
-## Parent Focus: ScreenTime Off
+## App Lock - Focus ScreenTime
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/parent-focus-screentime-off/id6460862187)
-<br>Introducing "Parent Focus: ScreenTime Off," an iOS app I developed using Swift. As the iOS developer, I played a key role in crafting this app, which empowers parents to manage their child's digital habits effectively.
+<br>Introducing "App Lock - Focus ScreenTime," an iOS app I developed using Swift. As the iOS developer, I played a key role in crafting this app, which empowers parents to manage their child's digital habits effectively.
 
 **Key Features:**
 
@@ -105,6 +106,7 @@ Manage your child's screen time and promote responsible device use with Parent F
 - Passcode, Icognito Passcode
 - LocalAuthentication
 - In-App Purchase
+- Firebase
 
 ## Dice Mobi (Admin Module, Faculty Module, Student Module)
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/atlas-tech-app/id1187578170?ls=1)

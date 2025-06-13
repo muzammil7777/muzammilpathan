@@ -8,6 +8,32 @@
 
 ### 👋 Hi, I'm a dedicated iOS developer with 9+ years of experience. Let me show you a glimpse of my journey and what I've worked on.
 
+## Plantmind – Smart Plant Care & Identifier
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/plantmind-plant-identifier/id6670704349)
+<br>🌿 An AI-powered iOS app that helps users identify plants instantly using the camera, diagnose plant problems, and receive expert care advice. Users can also set personalized reminders for watering, fertilizing, and more. Whether you're a beginner or a plant enthusiast, Plantmind simplifies plant care with intuitive tools and smart automation.
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/PlantMind/0x0ss.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/PlantMind/0x0ss (1).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/PlantMind/0x0ss (2).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/PlantMind/0x0ss (3).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/PlantMind/0x0ss (4).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/PlantMind/0x0ss (5).png", width="200"/>
+</p>
+
+### My Role ###
+As the developer behind PlantMind, I was responsible for the entire app development process, from concept to launch. I built a seamless user experience using Swift, integrating features like camera-based plant identification, AI-powered care advice, and personalized care reminders.
+
+I also implemented iCloud sync for secure data storage across devices, and added In-App Purchases to unlock premium features. My focus was on delivering a smart, intuitive plant care app that helps users confidently care for their plants.
+
+**Tech Used**
+- Swift
+- iCloud Sync
+- In-App Purchase (StoreKit2)
+- Swift Package Manager (SPM)
+- AVFoundation & UIKit
+  
+
 ## MindClear Smart AI Note taking
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/mindclear-smart-ai-note-taking/id6453889452)
 <br>🧠 Intelligent AI-Powered Note-taking: MindClear harnesses the potential of cutting-edge ChatGPT API to provide users with a remarkably intelligent note-taking experience. The AI-driven capabilities enable users to effortlessly transcribe their thoughts, ideas, and meetings into clear and concise notes.

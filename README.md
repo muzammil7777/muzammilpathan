@@ -45,9 +45,9 @@ As the developer of AI Detector, I was responsible for transforming the provided
 </p>
 
 ### My Role ###
-As the developer behind PlantMind, I was responsible for the entire app development process, from concept to launch. I built a seamless user experience using Swift, integrating features like camera-based plant identification, AI-powered care advice, and personalized care reminders.
+As the developer behind PlantMind, I was responsible for the entire app development process—from initial development to App Store release. I built a seamless user experience using Swift, integrating features like camera-based plant identification, AI-powered care advice, and personalized care reminders.
 
-I also implemented iCloud sync for secure data storage across devices, and added In-App Purchases to unlock premium features. My focus was on delivering a smart, intuitive plant care app that helps users confidently care for their plants.
+I also implemented iCloud sync for secure data storage across devices and added In-App Purchases to unlock premium features. My focus was on delivering a smart, intuitive plant care app that helps users confidently care for their plants.
 
 **Tech Used**
 - Swift
@@ -65,12 +65,13 @@ I also implemented iCloud sync for secure data storage across devices, and added
 MindClear is a testament to my commitment to delivering innovative, user-centric solutions. It has the potential to transform the way users take notes, making it an excellent addition to my portfolio. I invite you to explore the app and experience the future of note-taking firsthand.
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/1290x2796bb.png", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/1290x2796bb (1).png", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/1290x2796bb (2).png", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/1290x2796bb (3).png", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/1290x2796bb (4).png", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/1290x2796bb (5).png", width="200"/>
+ <img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/0x0ss.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/0x0ss (1).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/0x0ss (2).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/0x0ss (3).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/0x0ss (4).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/0x0ss (5).png", width="200"/>
+  <img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/MindClear/0x0ss (6).png", width="200"/>
 </p>
 
 ### My Role ###
@@ -137,12 +138,14 @@ Unlock all features with our auto-renewing subscription:
 Manage your child's screen time and promote responsible device use with Parent Focus: ScreenTime Off, showcasing my iOS development skills.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/1290x2796bb.png", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/1290x2796bb (1).png", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/1290x2796bb (2).png", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/1290x2796bb (3).png", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/1290x2796bb (4).png", width="200"/>
-<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/1290x2796bb (5).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/0x0ss.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/0x0ss (1).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/0x0ss (2).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/0x0ss (3).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/0x0ss (4).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/0x0ss (5).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/0x0ss (6).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/ParentFocus/0x0ss (8).png", width="200"/>
 </p>
  
 **Tech Used**

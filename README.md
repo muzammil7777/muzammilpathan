@@ -8,6 +8,29 @@
 
 ### 👋 Hi, I'm a dedicated iOS developer with 9+ years of experience. Let me show you a glimpse of my journey and what I've worked on.
 
+## AI Detector – Check and Transform Your Text into Authentic, Engaging Content
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/ai-detector-bypassgpt-ai/id6739224726)
+<br>🧠 AI Detector is an intelligent iOS app that helps users detect AI-generated content and enhance their writing with clarity, tone, and originality. Built for writers, students, and professionals, it provides actionable feedback and effortless text refinement—all in a clean, easy-to-use interface. Create more authentic, compelling content with confidence.
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AIDetector/0x0ss.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AIDetector/0x0ss (1).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AIDetector/0x0ss (2).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AIDetector/0x0ss (3).png", width="200"/>
+</p>
+
+### My Role ###
+As the developer of AI Detector, I was responsible for transforming the provided concept into a fully functional iOS app. I handled the complete development process, including building the UI with SwiftUI, integrating AI-powered APIs for text detection and enhancement, and ensuring a smooth, responsive user experience. I also implemented In-App Purchases to support premium features and managed app performance and deployment.
+
+**Tech Used**
+- Swift
+- SwiftUI
+- Superwall SDK
+- In-App Purchase (StoreKit2)
+- Swift Package Manager (SPM)
+- AI API Integration for Text Detection & Enhancement
+
+
 ## Plantmind – Smart Plant Care & Identifier
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/plantmind-plant-identifier/id6670704349)
 <br>🌿 An AI-powered iOS app that helps users identify plants instantly using the camera, diagnose plant problems, and receive expert care advice. Users can also set personalized reminders for watering, fertilizing, and more. Whether you're a beginner or a plant enthusiast, Plantmind simplifies plant care with intuitive tools and smart automation.
@@ -32,6 +55,7 @@ I also implemented iCloud sync for secure data storage across devices, and added
 - In-App Purchase (StoreKit2)
 - Swift Package Manager (SPM)
 - AVFoundation & UIKit
+- Superwall SDK
   
 
 ## MindClear Smart AI Note taking
@@ -61,6 +85,7 @@ As the developer behind MindClear, I was responsible for the entire app developm
 - OpenAI API ChatGPT
 - Swift Package Manager
 - Firebase
+- Superwall SDK
   
 
 ## Steve AI - Chat Assistant

@@ -8,6 +8,37 @@
 
 ### 👋 Hi, I'm a dedicated iOS developer with 9+ years of experience. Let me show you a glimpse of my journey and what I've worked on.
 
+## AI Reel Maker - AI Reel
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/ai-reel-maker-ai-reel/id6745120863)
+<br>🧠 AI Reel Maker is an AI-powered video creation app designed for content creators, marketers, and storytellers. It allows users to transform simple prompts into high-quality, customized reels in just a few taps. With support for multiple video styles, voice accents, languages, and aspect ratios, the app streamlines the content production process for social media and beyond.
+
+Key features include prompt-based video generation, voice and style customization, multi-language support, and export-ready formats—all packed into an intuitive and sleek interface.
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AIReelMaker/0x0ss.png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AIReelMaker/0x0ss (1).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AIReelMaker/0x0ss (2).png", width="200"/>
+<img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AIReelMaker/0x0ss (3).png", width="200"/>
+  <img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AIReelMaker/0x0ss (4).png", width="200"/>
+  <img src="https://raw.githubusercontent.com/muzammil7777/muzammilpathan.github.io/main/Images/AIReelMaker/0x0ss (5).png", width="200"/>
+</p>
+
+### My Role ###
+As the developer behind AI Reel Maker, I was responsible for the full development and delivery of the app. I implemented the user interface using SwiftUI and handled seamless integration of various APIs for AI-driven video and voice generation. I worked extensively with AVKit, AVAudio, and Core Animation to render and compose dynamic video content.
+
+Additionally, I integrated In-App Purchases to manage premium features and used Swift Package Manager to maintain scalable and modular code. My focus was on building a performant, user-friendly app that simplifies video creation for a wide range of users.
+
+**Tech Used**
+- Swift
+- SwiftUI
+- Superwall SDK
+- In-App Purchase (StoreKit2)
+- Swift Package Manager (SPM)
+- AI APIs for Video Generation
+- AVKit
+- Core Animation
+  
+
 ## AI Detector – Check and Transform Your Text into Authentic, Engaging Content
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/ai-detector-bypassgpt-ai/id6739224726)
 <br>🧠 AI Detector is an intelligent iOS app that helps users detect AI-generated content and enhance their writing with clarity, tone, and originality. Built for writers, students, and professionals, it provides actionable feedback and effortless text refinement—all in a clean, easy-to-use interface. Create more authentic, compelling content with confidence.

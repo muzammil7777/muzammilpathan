@@ -8,7 +8,7 @@
 
 ### 👋 Hi, I'm a dedicated iOS developer with 9+ years of experience. Let me show you a glimpse of my journey and what I've worked on.
 
-## AI Reel Maker - AI Reel
+## AI Reel Maker – Create Engaging Reels Effortlessly
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/ai-reel-maker-ai-reel/id6745120863)
 <br>🧠 AI Reel Maker is an AI-powered video creation app designed for content creators, marketers, and storytellers. It allows users to transform simple prompts into high-quality, customized reels in just a few taps. With support for multiple video styles, voice accents, languages, and aspect ratios, the app streamlines the content production process for social media and beyond.
 
